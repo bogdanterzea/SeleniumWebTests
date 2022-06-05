@@ -1,8 +1,6 @@
-//Inside SeleniumTest.cs
-
 using NUnit.Framework;
 
-using OpenQA.Selenium;
+using OpenQA.Seleniusm;
 
 using OpenQA.Selenium.Chrome;
 
